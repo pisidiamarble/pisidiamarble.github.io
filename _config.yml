@@ -9,7 +9,7 @@ permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: #mountains.mp4  add banner video. Add your video file to the folder video
 banner-title: "Pisidia Marble Tiles" # add banner title
 banner-desc: "Turning Homes to Palaces"# add banner description
 
